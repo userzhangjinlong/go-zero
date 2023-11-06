@@ -8,8 +8,8 @@ import (
 
 	"github.com/DATA-DOG/go-sqlmock"
 	"github.com/stretchr/testify/assert"
-	"github.com/zeromicro/go-zero/core/breaker"
-	"github.com/zeromicro/go-zero/internal/dbtest"
+	"github.com/userzhangjinlong/go-zero/core/breaker"
+	"github.com/userzhangjinlong/go-zero/internal/dbtest"
 )
 
 const (

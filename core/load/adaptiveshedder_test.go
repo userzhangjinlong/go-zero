@@ -8,12 +8,12 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zeromicro/go-zero/core/collection"
-	"github.com/zeromicro/go-zero/core/logx"
-	"github.com/zeromicro/go-zero/core/mathx"
-	"github.com/zeromicro/go-zero/core/stat"
-	"github.com/zeromicro/go-zero/core/syncx"
-	"github.com/zeromicro/go-zero/core/timex"
+	"github.com/userzhangjinlong/go-zero/core/collection"
+	"github.com/userzhangjinlong/go-zero/core/logx"
+	"github.com/userzhangjinlong/go-zero/core/mathx"
+	"github.com/userzhangjinlong/go-zero/core/stat"
+	"github.com/userzhangjinlong/go-zero/core/syncx"
+	"github.com/userzhangjinlong/go-zero/core/timex"
 )
 
 const (

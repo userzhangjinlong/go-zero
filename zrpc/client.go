@@ -3,11 +3,11 @@ package zrpc
 import (
 	"time"
 
-	"github.com/zeromicro/go-zero/core/conf"
-	"github.com/zeromicro/go-zero/core/logx"
-	"github.com/zeromicro/go-zero/zrpc/internal"
-	"github.com/zeromicro/go-zero/zrpc/internal/auth"
-	"github.com/zeromicro/go-zero/zrpc/internal/clientinterceptors"
+	"github.com/userzhangjinlong/go-zero/core/conf"
+	"github.com/userzhangjinlong/go-zero/core/logx"
+	"github.com/userzhangjinlong/go-zero/zrpc/internal"
+	"github.com/userzhangjinlong/go-zero/zrpc/internal/auth"
+	"github.com/userzhangjinlong/go-zero/zrpc/internal/clientinterceptors"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 )

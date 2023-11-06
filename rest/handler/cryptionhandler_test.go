@@ -12,8 +12,8 @@ import (
 	"testing/iotest"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zeromicro/go-zero/core/codec"
-	"github.com/zeromicro/go-zero/core/logx/logtest"
+	"github.com/userzhangjinlong/go-zero/core/codec"
+	"github.com/userzhangjinlong/go-zero/core/logx/logtest"
 )
 
 const (

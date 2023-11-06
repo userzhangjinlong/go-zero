@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/zeromicro/go-zero/tools/goctl/api/parser/g4/gen/api"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/parser/g4/gen/api"
 )
 
 // InfoExpr defines info syntax for api

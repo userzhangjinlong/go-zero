@@ -5,8 +5,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/zeromicro/go-zero/tools/goctl/util"
+	"github.com/userzhangjinlong/go-zero/core/stringx"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/util"
 )
 
 const (

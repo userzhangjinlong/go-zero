@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	red "github.com/go-redis/redis/v8"
-	"github.com/zeromicro/go-zero/core/syncx"
+	"github.com/userzhangjinlong/go-zero/core/syncx"
 )
 
 const addrSep = ","

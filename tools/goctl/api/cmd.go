@@ -2,19 +2,19 @@ package api
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/zeromicro/go-zero/tools/goctl/api/apigen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/dartgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/docgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/format"
-	"github.com/zeromicro/go-zero/tools/goctl/api/gogen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/javagen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/ktgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/new"
-	"github.com/zeromicro/go-zero/tools/goctl/api/tsgen"
-	"github.com/zeromicro/go-zero/tools/goctl/api/validate"
-	"github.com/zeromicro/go-zero/tools/goctl/config"
-	"github.com/zeromicro/go-zero/tools/goctl/internal/cobrax"
-	"github.com/zeromicro/go-zero/tools/goctl/plugin"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/apigen"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/dartgen"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/docgen"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/format"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/gogen"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/javagen"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/ktgen"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/new"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/tsgen"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/validate"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/config"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/internal/cobrax"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/plugin"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/zeromicro/go-zero/core/logx"
+	"github.com/userzhangjinlong/go-zero/core/logx"
 )
 
 const timeFormat = "0102150405"

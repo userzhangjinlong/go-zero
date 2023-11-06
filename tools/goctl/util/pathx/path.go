@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/zeromicro/go-zero/tools/goctl/vars"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/vars"
 )
 
 const (

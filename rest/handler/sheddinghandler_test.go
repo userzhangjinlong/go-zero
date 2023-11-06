@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zeromicro/go-zero/core/load"
-	"github.com/zeromicro/go-zero/core/stat"
+	"github.com/userzhangjinlong/go-zero/core/load"
+	"github.com/userzhangjinlong/go-zero/core/stat"
 )
 
 func TestSheddingHandlerAccept(t *testing.T) {

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
-	"github.com/zeromicro/go-zero/tools/goctl/config"
-	"github.com/zeromicro/go-zero/tools/goctl/util/format"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/api/spec"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/config"
+	"github.com/userzhangjinlong/go-zero/tools/goctl/util/format"
 )
 
 const (

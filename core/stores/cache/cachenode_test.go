@@ -12,14 +12,14 @@ import (
 
 	"github.com/alicebob/miniredis/v2"
 	"github.com/stretchr/testify/assert"
-	"github.com/zeromicro/go-zero/core/collection"
-	"github.com/zeromicro/go-zero/core/logx"
-	"github.com/zeromicro/go-zero/core/mathx"
-	"github.com/zeromicro/go-zero/core/stat"
-	"github.com/zeromicro/go-zero/core/stores/redis"
-	"github.com/zeromicro/go-zero/core/stores/redis/redistest"
-	"github.com/zeromicro/go-zero/core/syncx"
-	"github.com/zeromicro/go-zero/core/timex"
+	"github.com/userzhangjinlong/go-zero/core/collection"
+	"github.com/userzhangjinlong/go-zero/core/logx"
+	"github.com/userzhangjinlong/go-zero/core/mathx"
+	"github.com/userzhangjinlong/go-zero/core/stat"
+	"github.com/userzhangjinlong/go-zero/core/stores/redis"
+	"github.com/userzhangjinlong/go-zero/core/stores/redis/redistest"
+	"github.com/userzhangjinlong/go-zero/core/syncx"
+	"github.com/userzhangjinlong/go-zero/core/timex"
 )
 
 var errTestNotFound = errors.New("not found")
